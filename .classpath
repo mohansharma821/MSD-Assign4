@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/mohansharma/Documents/MS-MIS UNO/2 Spring 2017/MSD 8210/Softwares/selenium-server-standalone-3.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/mohansharma/Downloads/poi-3.16/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/mohansharma/Downloads/poi-3.16/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/mohansharma/Downloads/poi-3.16/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/mohansharma/Downloads/poi-3.16/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/mohansharma/Downloads/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
